@@ -1,0 +1,52 @@
+dicionário do Groger:
+
+Printar = Aparecer no console
+Inputar = Inserir no console
+Tranks = Tá tudo tranquilo?
+
+
+1 - crie uma função que receba uma lista de 20 valores aleatórios, retornar
+apenas o maior valor e printar em tela.
+
+
+
+
+2 - crie uma lista com 10 números aleatórios,
+itere essa lista e printar em tela os
+valores que são ímpares e pares.
+
+exemplo de resultado em tela:
+
+Essa foi a lista gerada aleatóriamente:
+[37, 52, 73, 91, 49, 67, 19, 64, 58, 22]
+ímpares: [37, 73, 91, 49, 67, 19]
+pares: [52, 64, 58, 22]
+
+
+3 - Crie uma função python que cálcule uma função de 2º Grau
+
+  Delta = B² - 4AC
+  Bhāskara = -B +- (raiz de delta)/ 2A
+
+4 - Faça um programa que leia o raio de um círculo e faça duas
+funções: uma que calcule a área do círculo e outra que calcule
+o comprimento do círculo.
+
+Área do círculo:
+
+A = π . r2
+Onde,
+π: constante Pi (3,14)
+r: raio
+
+Cumprimento:
+
+C = 2·π·r
+
+
+5 - Crie uma classe chamada AtividadesBanco, com uma função chamada dados_func() que pergunte o nome do funcionário e sua idade e retorne a mesma,
+e outra função chamada atividade_func() que receba como parâmetro uma lista de atividades do funcionário e retorne a mesma.
+
+
+
+https://docs.python.org/2/library/math.html
